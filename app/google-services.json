@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636733191996",
+    "project_id": "projereposu",
+    "storage_bucket": "projereposu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636733191996:android:db530a2da48278a2e31039",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3dxplG2KfjycWp7Q5VMBjt24De6FB_x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
